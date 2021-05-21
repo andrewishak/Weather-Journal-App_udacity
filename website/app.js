@@ -1,5 +1,5 @@
 // Personal API Key for OpenWeatherMap API
-const openWeatherMapKey = '599d78a31b59f8f0c36348b76d921d75';
+const openWeatherMapKey = '599d78a31b59f8f0c36348b76d921d75&units=metric';
 const openWeatherMapUrl = 'https://api.openweathermap.org/data/2.5/weather?zip=';
 const baseUrl = 'http://localhost:3000/';
 // Event listener to add function to existing HTML DOM element
